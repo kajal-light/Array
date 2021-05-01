@@ -20,11 +20,11 @@ public class Found {
 
 		}
 		// variable = (condition) ? if case : else case
-		String result = (found != -1) ? "Yes, input is present at "+ found : "no";
-		System.out.println(result);
+		//String result = (found != -1) ? "Yes, input is present at "+ found : "no";
+		//System.out.println(result);
 		
-		int result2 = (found != -1) ?  found : 0;
-		System.out.println(result2);
+		//int result2 = (found != -1) ?  found : 0;
+		//System.out.println(result2);
 		
 		
 		if (found != -1) {

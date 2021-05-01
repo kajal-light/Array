@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Inserting {
 
-	private static final String Sytsem = null;
+	//private static final String Sytsem = null;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

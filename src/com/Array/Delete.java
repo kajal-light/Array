@@ -2,8 +2,6 @@ package com.Array;
 
 import java.util.Scanner;
 
-
-
 //DELETING AN ARRAY BY VAULE
 
 public class Delete {
